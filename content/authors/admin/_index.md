@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:xiong@ibi.baug.ethz.ch".
+    link: "mailto:xiong@ibi.baug.ethz.ch"
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/shuyan-xiong/
