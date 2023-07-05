@@ -22,26 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Master of Integrated Building Systems
+    company: ETH Zurich
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    company_logo: ETH Zurich
+    location: Zurich
+    date_start: '2018-08-01'
+    date_end: '2021-01-10'
+    description: Structural Reliability Risk Analysis (5.5), Whole Building Simulation (5.75), Information Systems for Eng (5), Big Data, Building Systems (5.25), Lean Project Delivery (5.5), Technology Innovation Management (6), PM for Engineers (5), Advanced Computational Design (5) etc.
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: Bachelor of Honours Mechanical Engineering
+    company: McGill University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: McGill University
+    location: Montreal
+    date_start: '2014-08-01'
+    date_end: '2018-06-31'
+    description: #|2-
+        * Awards: Distinction (2018); The Rio Tinto – Richard Evans International Exchange Awards (2016-2017); Professor W.M. (Bill) Williams Scholarship in Engineering, John Howard Ambrose Scholarship (2014-2015)
+        * Courses: Calculus (A), Linear Algebra PDE (B+), Numerical Methods in Mech Eng (A-), Eng Economy (A), Mechanics (A), Thermodynamics (A), Adv Fluid Mechanics (B+), Heat Transfer (A), Probability (A), Control Systems
 
 design:
   columns: '1'

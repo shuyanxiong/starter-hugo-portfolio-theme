@@ -28,12 +28,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
-    - name: Computer Vision
-      tag: CV
-    - name: NLP
-      tag: NLP
+    - name: Educational Background
+      tag: EB
+    - name: Research Experience
+      tag: RE
+    - name: Work Experience
+      tag: WE
+    - name: Leadership Experience
+      tag: LE
 
 design:
   columns: '1'
