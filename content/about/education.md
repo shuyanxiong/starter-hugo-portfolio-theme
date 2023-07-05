@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Ph.D. Student
+    company: Chair of Sustainable Construction, ETH Zurich
+    company_url: ''
+    company_logo: SC
+    location: Zurich
+    date_start: '2022-01-01'
+    date_end: ''
+    description:
+
   - title: Master of Integrated Building Systems
     company: ETH Zurich
     company_url: ''

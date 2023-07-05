@@ -27,11 +27,11 @@ experience:
     company_url: ''
     company_logo: arctron
     location: Shanghai
-    date_start: '2021-04-01'
-    date_end: '2021-12-31'
+    date_start: '2021-04-03'
+    date_end: '2021-12-30'
     description: |2-
         * Providing smart-building and smart-city level solutions and training to sales department
-        * Played an active role in the projects of Nanjing Smart Building, Shanghai Fengxian District, Shanghai Airport Authority, Chengdu Yushi District etc., providing 20+ solution documents to customers
+        * Played an active role in the projects of Nanjing Smart Building, Shanghai Fengxian District, Shanghai Airport Authority, Chengdu Yushi District etc.，providing 20+ solution documents to customers
         * Performed demonstration of the North Bund CIM platform to the District Governor
 
   - title: BSE Intern
@@ -39,7 +39,7 @@ experience:
     company_url: ''
     company_logo: drees&sommer
     location: Shanghai
-    date_start: '2021-01-01'
+    date_start: '2021-01-02'
     date_end: '2021-04-01'
     description: |2-
       * Designed HVAC systems for Amazon SHA AWS Office with 13 drawings in AutoCAD and detailed calculation book
@@ -51,7 +51,7 @@ experience:
     company_logo: DBT
     location: Zurich
     date_start: '2018-10-01'
-    date_end: '2021-01-31'
+    date_end: '2021-01-01'
     description: |2-
         * Advised 30+ FDM printing projects both within and outside of ETHZ
         * Designed and accomplished over 35 3D-printing projects on various scales with over 15 printing materials
@@ -63,7 +63,7 @@ experience:
     company_logo: AESEU
     location: Nanjing
     date_start: '2018-07-01'
-    date_end: '2018-08-31'
+    date_end: '2018-08-15'
     description: |2-
         * Performed structural analysis for Wenzhou Memorial Arch and designed geometrical dimension of building element
         * Designed the beam and pile layout plan for Sci. Tech. building, Yangzhou University according to building code with PKPM

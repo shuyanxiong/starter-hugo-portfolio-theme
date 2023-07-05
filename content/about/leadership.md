@@ -28,7 +28,7 @@ experience:
     company_logo: ACSSZ
     location: Zurich
     date_start: '2018-09-18'
-    date_end: 'present'
+    date_end: ''
     description: |2-
         * Managed the social media account and increased the visibility of ACSSZ by increasing followers from 3000+ to 5000+ within 1 year and wrote 50+ promotional articles
         * In charge of financia communication and administration work with clients, administered CHF 4000+ budget for 15+ events
