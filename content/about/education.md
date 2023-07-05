@@ -25,7 +25,7 @@ experience:
   - title: Master of Integrated Building Systems
     company: ETH Zurich
     company_url: ''
-    company_logo: ETH Zurich
+    company_logo: eth_logo_kurz_pos
     location: Zurich
     date_start: '2018-08-01'
     date_end: '2021-01-10'
@@ -34,7 +34,7 @@ experience:
   - title: Bachelor of Honours Mechanical Engineering
     company: McGill University
     company_url: ''
-    company_logo: McGill University
+    company_logo: McGill_logo
     location: Montreal
     date_start: '2014-08-01'
     date_end: '2018-06-31'
