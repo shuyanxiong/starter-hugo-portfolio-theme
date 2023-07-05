@@ -37,7 +37,7 @@ experience:
     company_logo: McGill_logo
     location: Montreal
     date_start: '2014-08-01'
-    date_end: '2018-06-31'
+    date_end: '2018-06-01'
     description: |2-
         * Awards: Distinction (2018); The Rio Tinto – Richard Evans International Exchange Awards (2016-2017); Professor W.M. (Bill) Williams Scholarship in Engineering, John Howard Ambrose Scholarship (2014-2015)
         * Courses: Calculus (A), Linear Algebra PDE (B+), Numerical Methods in Mech Eng (A-), Eng Economy (A), Mechanics (A), Thermodynamics (A), Adv Fluid Mechanics (B+), Heat Transfer (A), Probability (A), Control Systems
