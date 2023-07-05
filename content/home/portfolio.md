@@ -28,8 +28,6 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Educational Background
-      tag: EB
     - name: Research Experience
       tag: RE
     - name: Work Experience
