@@ -11,7 +11,7 @@ role: ''
 # Organizations/Affiliations
 organizations:
 - name: ETH Zurich, Chair of Sustainable Construction
-  url: "https://www.sc.ethz.ch/"
+  url: "https://sc.ibi.ethz.ch/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interest lies in the material sourcing description for digitally-​enabled circular economy.
