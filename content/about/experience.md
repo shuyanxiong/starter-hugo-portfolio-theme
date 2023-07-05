@@ -63,7 +63,7 @@ experience:
     company_logo: AESEU
     location: Nanjing
     date_start: '2018-07-01'
-    date_end: '2028-08-31'
+    date_end: '2018-08-31'
     description: |2-
         * Performed structural analysis for Wenzhou Memorial Arch and designed geometrical dimension of building element
         * Designed the beam and pile layout plan for Sci. Tech. building, Yangzhou University according to building code with PKPM
