@@ -62,12 +62,10 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-Shuyan Xiong is a Ph.D student at the Chair of Sustainable Construction since January 2022. From 2014 to 2018, she studied at McGill University and graduated with Distinction with a B.Eng. in Honours Mechanical Engineering. In 2021, she received her M.Sc. in Integrated Building Systems from the Department of Architecture at ETH Zurich.
+I am Shuyan Xiong, a Ph.D. student at the Chair of Sustainable Construction since January 2022. My academic journey began at McGill University, where I pursued a B.Eng. in Honours Mechanical Engineering from 2014 to 2018, graduating with Distinction. In 2021, I earned my M.Sc. in Integrated Building Systems from ETH Zurich's Department of Architecture.
 
-During her master's studies, she worked as a lab assistant at DBT (ETHZ), specializing in polymer 3D-​printing. Her master's thesis, entitled "Optimization of infill structures for high-​performance 3D-​printed building facades", was supervised by A/S Group and DBT, which developed her parametric modelling and performance analysis skills.
+During my master's studies, I served as a lab assistant at Digital Building Technologies (DBT, ETHZ), specializing in polymer 3D-printing. Under the guidance of A/S Group and DBT, my master's thesis, "Optimization of infill structures for high-performance 3D-printed building facades," honed my parametric modeling and performance analysis skills.
 
-Prior to joining the chair, she worked as an MEP & LEED intern at Drees&Sommer and later as a solutions engineer at Arcplus Group in Shanghai, specializing in smart buildings and smart cities.
-
-The focus of her research lies in the material sourcing description for digitally-​enabled circular economy, which aims to develop a systems approach for informing the design of sustainable housing with circular material flows in urban areas. Her interest in sustainable construction and future circular cities led her to join the chair and participate in the project.
+My research focus revolves around material sourcing description for digitally-enabled circular economies. My passion for sustainable construction and future circular cities drove me to join the chair and actively contribute to our ongoing projects.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
