@@ -62,13 +62,12 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
-<div style="font-size: 14px;">
+<div style="font-size: 16px;">
 I am Shuyan Xiong, a Ph.D. student at the Chair of Sustainable Construction since January 2022. My academic journey began at McGill University, where I pursued a B.Eng. in Honours Mechanical Engineering from 2014 to 2018, graduating with Distinction. In 2021, I earned my M.Sc. in Integrated Building Systems from ETH Zurich's Department of Architecture.
 
 During my master's studies, I served as a lab assistant at Digital Building Technologies (DBT, ETHZ), specializing in polymer 3D-printing. Under the guidance of A/S Group and DBT, my master's thesis, "Optimization of infill structures for high-performance 3D-printed building facades," honed my parametric modeling and performance analysis skills.
 
 My research focus revolves around material sourcing description for digitally-enabled circular economies. My passion for sustainable construction and future circular cities drove me to join the chair and actively contribute to our ongoing projects.
-
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
 </div>
 
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
