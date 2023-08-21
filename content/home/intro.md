@@ -18,7 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-👋 Hi, there! I'm **Shuyan**, a second-year PhD student specializing in Material Circularity and Data Management. I'm enthusiastic about exploring innovative ideas and insights in these fields. Don't hesitate to connect if you're looking to exchange thoughts and concepts.
+👋 Hi, there! I'm **Shuyan**, a second-year PhD student specializing in Material Circularity and Data Management. I'm enthusiastic about exploring innovative ideas and insights in these fields. Don't hesitate to connect if you're looking to exchange thoughts and concepts. Check out my [resumé](/about/) and portfolio below~
 <!-- {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"} -->
 
-Check out my [resumé](/about/) and portfolio below~
