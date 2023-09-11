@@ -6,6 +6,6 @@ summary: Aiming to develop a systems approach for informing the design of
   sustainable housing with circular material flows in urban areas.
 tags:
   - RE
-external_link: https://fcl.ethz.ch/research/cycles-and-districts/circular-future-cities.html
+external_link: ""
 ---
 W﻿elcome to the FCL Exhibition 2023, here I would like to show you a bit more information on the probable material flows coming from the building systems.
