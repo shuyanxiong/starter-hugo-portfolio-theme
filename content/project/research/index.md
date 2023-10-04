@@ -16,14 +16,13 @@ However, practical implementation in Swiss construction encounters challenges, n
 
 Acknowledging these data gaps, especially in older buildings, Machine Learning (ML) emerges as a potent tool for predictive modeling and data analysis [^12^] [^13^]. ML-based predictors, leveraging big data and automated methodologies, offer solutions to the scarcity of information on old buildings. Probabilistic models contribute to quantitative inclusion of data variability and uncertainty from assumptions when dealing with ambiguous cases [^3^] [^14^]. The predictive model is self-developed using parametric algorithms, which utilized key parameters from the database and followed the design principles of building systems. 
 
-![Alt Text](\\s4d-fs.d.ethz.ch\baug-home$\xiongs\Documents\GitHub\starter-hugo-portfolio-theme\content\project\research\workflow.png)
+![Alt Text](workflow.png)
 
 The figure above illustrates the general workflow encompassing work packages 1 and 2. In this process, primary material flows come from constructive materials, and supplementary materials from building systems are integrated to enhance the precision of the final Material Flow Analysis (MFA) outcomes. The 3D-printed models serve as a direct and straightforward visualization of the final outcomes of material flows in a three-dimensional format, allowing for a brief understanding of how a typical building can be segmented into different systems and identifies the primary materials originating from each system, highlighting key components that have the potential for circularity.
 
 In the end, the employed approaches result in the completion of a comprehensive local database, enriching the predictive model's resources. The developed model serves as a valuable tool that captures professional expertise digitally. Its ability to accurately predict missing data and estimate material flows, particularly for less-assessed components like HVAC systems, provides valuable information for enabling circular material use through recycling, reuse, and refurbishment flows. The model exhibits adaptability and potential as an open-source platform, customized to specific needs. Its emphasis on essential building system components allows for the integration of additional equipment. It will support more informed decision-making regarding resource allocation, material procurement, and waste reduction strategies, which could be planned well ahead and potentially solves the problem of timeliness in demolition schedules, allowing for a more time- and cost-efficient solution for resource management. Ultimately, it contributes to the transition toward a sustainable and circular future in the construction sector.
 
 ### References:
-<small>
 [^1^]: R. H. Crawford, A. Stephan, and F. Prideaux, “EPiC: Introducing a database of hybrid environmental flow coefficients for construction materials,” IOP Conf. Ser. Earth Environ. Sci., vol. 588, no. 4, p. 042052, Nov. 2020, doi: 10.1088/1755-1315/588/4/042052.
 [^2^]: I. Hamilton, “Global Alliance for Buildings and Construction (GlobalABC),” p. 20.
 [^3^]: N. Heeren and T. Fishman, “A database seed for a community-driven material intensity research platform,” Sci. Data, vol. 6, no. 1, pp. 1–10, 2019, doi: 10.1038/s41597-019-0021-x.
@@ -38,4 +37,3 @@ In the end, the employed approaches result in the completion of a comprehensive 
 [^12^]: A. Froemelt, R. Buffat, and S. Hellweg, “Machine learning based modeling of households: A regionalized bottom-up approach to investigate consumption-induced environmental impacts,” J. Ind. Ecol., vol. 24, no. 3, pp. 639–652, 2020, doi: 10.1111/jiec.12969.
 [^13^]: K. P. Murphy, Machine learning: a probabilistic perspective. Cambridge, MA, 2012.
 [^14^]: Z. Liu and B. Nowack, “Probabilistic material flow analysis and emissions modeling for five commodity plastics (PUR, ABS, PA, PC, and PMMA) as macroplastics and microplastics✰,” Resour. Conserv. Recycl., vol. 179, no. October 2021, p. 106071, 2022, doi: 10.1016/j.resconrec.2021.106071.
-</small>
