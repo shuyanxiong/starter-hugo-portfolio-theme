@@ -1,7 +1,7 @@
 ---
-title: Circular Future Cities - Sustainable Urban Development through Predictive Modeling and Material Flow Analysis
-subtitle: Future Cities Lab Exhibition 2023
-date: 2022-01-01
+title: Circular Future Cities
+subtitle: Sustainable Urban Development through Predictive Modeling and Material Flow Analysis
+date: 2023-10-01
 summary: Aiming to develop a systems approach for informing the design of
   sustainable housing with circular material flows in urban areas.
 tags:
