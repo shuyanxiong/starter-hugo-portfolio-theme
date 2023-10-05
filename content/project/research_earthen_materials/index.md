@@ -11,7 +11,7 @@ When envisioning the future of architecture, we tend to gravitate towards innova
 
 Historically, earthen materials have been at the heart of human shelter. From our earliest dwellings to grand earthen structures, it is perhaps the oldest building technique in the world. However, with the rise of modern urban architecture, materials such as concrete, steel, wood and brick have overtaken earth. This raises a crucial question: why do we dig up earth only to discard it and replace it with energy-intensive materials?
 
-![Earth as a building material: more versatile than you might think.](https://sc.ibi.ethz.ch/en/assets/img/earth-building-material.jpg)
+![Earth as a building material: more versatile than you might think.](earthen_materials.jpg)
 *(Image: Chair for Sustainable Construction / ETH Zurich) [^1]*
 
 The sustainable attributes of earth are manifold:
