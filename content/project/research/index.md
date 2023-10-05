@@ -1,5 +1,5 @@
 ---
-title: Circular Future Cities
+title: Circular Future Cities - Building Systems
 subtitle: Sustainable Urban Development through Predictive Modeling and Material Flow Analysis
 date: 2023-10-01
 summary: Aiming to develop a systems approach for informing the design of
