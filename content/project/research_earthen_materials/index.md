@@ -24,15 +24,15 @@ The sustainable attributes of earth are manifold:
 
 However, challenges remain. Traditional earthen construction techniques must evolve with the times to meet the requirements of modern buildings. This has prompted researchers around the world to work on improving the performance of earthen materials. From developing slurries with superior moisture-regulating properties to creating liquid soils that perform similarly to traditional concrete, researchers have made various efforts in this regard.
 
-As we stand at the crossroads of modernization and sustainability, revisiting and innovating with clay offers a promising path forward. The Regenerative Lab at the Chair of Sustainable Construction, ETH Zurich, has presented earthen material samples on display.
+As we find ourselves at the intersection of modernization and sustainability, a compelling avenue emerges as we re-evaluate and innovate with clay. The Regenerative Laboratory of the Chair of Sustainable Construction at ETH Zurich has delved into a variety of techniques to explore the potential of clay materials. From experimenting with casting techniques with a variety of additives to studying rammed earth with different aggregate compositions, our efforts aim to achieve various goals, such as enhancing water resistance through tannins, speeding up production through pouring, or increasing strength through geopolymers. Presented here are some samples of earth bricks designed to illustrate their marketable solutions in the construction industry.
 
 ## Spotlight on the Samples:
 
-- **Stability:** These bricks, resembling conventional ones, have the added advantage of being environmentally friendly. The technique involves using the inorganic part of excavated soil, compressing it, and stabilizing it with small quantities of cement or lime.
+- **Marketability:** not only are these earth bricks produced by pouring techniques, but they also utilize a concrete-like production process, which offers the advantages of easy production, quick entry into service, and a similar appearance to traditional bricks. In addition to these advantages, they are also environmentally friendly. The technique involves utilizing the inorganic components of the excavated soil, compressing it, and stabilizing it with a very small amount of cement or lime.
 
-- **Versatility:** mixing different clays enhances its moisture regulating properties. It can be used not only as constructive materials, but also to naturally regulate the indoor climate.
+- **Versatility:** clay mixtures are customizable and different pigments can be added to match your design preferences. The loose structure of clay gives it excellent moisture regulating properties, allowing for uses beyond building materials. This adaptable material helps to naturally regulate the indoor climate.
 
-- **Flexibility:** this material can be poured into molds like traditional concrete, revolutionizing the application process and significantly reducing construction costs. This earthy material can also be adapted for 3D printing, design flexibility and light weight, reducing labor-intensive work.
+- **Flexibility:** notably, the material can be poured into molds similar to those used for traditional concrete, which revolutionizes the application process by being fast and versatile to produce. This not only meets market demand, but also significantly reduces construction costs.
 
 These samples showcase the immense potential of earth as a construction material. By combining traditional knowledge with modern techniques, we pave the way for more sustainable and eco-friendly building solutions.
 
