@@ -12,7 +12,7 @@ When envisioning the future of architecture, we tend to gravitate towards innova
 Historically, earthen materials have been at the heart of human shelter. From our earliest dwellings to grand earthen structures, it is perhaps the oldest building technique in the world. However, with the rise of modern urban architecture, materials such as concrete, steel, wood and brick have overtaken earth. This raises a crucial question: why do we dig up earth only to discard it and replace it with energy-intensive materials?
 
 ![Earth as a building material: more versatile than you might think.](earthen_materials.jpg)
-*(Image: Chair for Sustainable Construction / ETH Zurich) [^1]*
+*(Image: Chair for Sustainable Construction / ETH Zurich) [^1^]*
 
 The sustainable attributes of earth are manifold:
 
@@ -24,7 +24,7 @@ The sustainable attributes of earth are manifold:
 
 However, challenges remain. Traditional earthen construction techniques must evolve with the times to meet the requirements of modern buildings. This has prompted researchers around the world to work on improving the performance of earthen materials. From developing slurries with superior moisture-regulating properties to creating liquid soils that perform similarly to traditional concrete, researchers have made various efforts in this regard.
 
-As we find ourselves at the intersection of modernization and sustainability, a compelling avenue emerges as we re-evaluate and innovate with clay. The Regenerative Laboratory of the Chair of Sustainable Construction at ETH Zurich has delved into a variety of techniques to explore the potential of clay materials. From experimenting with casting techniques with a variety of additives to studying rammed earth with different aggregate compositions, our efforts aim to achieve various goals, such as enhancing water resistance through tannins, speeding up production through pouring, or increasing strength through geopolymers. Presented here are some samples of earth bricks designed to illustrate their marketable solutions in the construction industry.
+As we find ourselves at the intersection of modernization and sustainability, a compelling avenue emerges as we re-evaluate and innovate with clay. The Regenerative Laboratory of the Chair of Sustainable Construction at ETH Zurich has delved into a variety of techniques to explore the potential of clay materials. From experimenting with pouring techniques [^2^]–[^5^] designed with a variety of additives to embracing stabilizations from vernacular construction practices [^6^]–[^8^], our efforts aim to achieve various goals, such as enhancing water resistance through low carbon stabilizers, speeding up production through pouring ,or tacking variability with simplified parameters [^9^]. Presented here are some samples of earth bricks designed to illustrate their marketable solutions in the construction industry.
 
 ## Spotlight on the Samples:
 
@@ -40,14 +40,20 @@ For those interested in the vast potential of earthen construction, embracing an
 
 ## References:
 
-[1] “Building with excavated material.” Accessed: Oct. 05, 2023. [Online]. Available: [https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html](https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html)
+[^1^] “Building with excavated material.” Accessed: Oct. 05, 2023. [Online]. Available: [https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html](https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html)
 
-[2] Y. Du, G. Habert, and C. Brumaud, “Design of Tannin-Based Poured Earth Material via Deflocculation–Coagulation Control: Additive Selection and Tannin Variation,” ACS Sustain. Chem. Eng., vol. 10, no. 44, pp. 14495–14502, Nov. 2022, doi: 10.1021/acssuschemeng.2c04078.
+[^2^] Y. Du, G. Habert, and C. Brumaud, “Design of Tannin-Based Poured Earth Material via Deflocculation–Coagulation Control: Additive Selection and Tannin Variation,” ACS Sustain. Chem. Eng., vol. 10, no. 44, pp. 14495–14502, Nov. 2022, doi: 10.1021/acssuschemeng.2c04078.
 
-[3] D. Ardant, C. Brumaud, and G. Habert, “Influence of additives on poured earth strength development,” Mater. Struct., vol. 53, no. 5, p. 127, Oct. 2020, doi: 10.1617/s11527-020-01564-y.
+[^3^] D. Ardant, C. Brumaud, and G. Habert, “Influence of additives on poured earth strength development,” Mater. Struct., vol. 53, no. 5, p. 127, Oct. 2020, doi: 10.1617/s11527-020-01564-y.
 
-[4] G. Landrou, C. Brumaud, and G. Habert, “Influence of magnesium on deflocculated kaolinite suspension: Mechanism and kinetic control,” Colloids Surf. Physicochem. Eng. Asp., vol. 544, pp. 196–204, May 2018, doi: 10.1016/j.colsurfa.2017.12.040.
+[^4^] G. Landrou, C. Brumaud, and G. Habert, “Influence of magnesium on deflocculated kaolinite suspension: Mechanism and kinetic control,” Colloids Surf. Physicochem. Eng. Asp., vol. 544, pp. 196–204, May 2018, doi: 10.1016/j.colsurfa.2017.12.040.
 
-[5] C. M. Ouellet-Plamondon and G. Habert, “Self-Compacted Clay based Concrete (SCCC): proof-of-concept,” J. Clean. Prod., vol. 117, pp. 160–168, Mar. 2016, doi: 10.1016/j.jclepro.2015.12.048.
+[^5^] C. M. Ouellet-Plamondon and G. Habert, “Self-Compacted Clay based Concrete (SCCC): proof-of-concept,” J. Clean. Prod., vol. 117, pp. 160–168, Mar. 2016, doi: 10.1016/j.jclepro.2015.12.048.
 
-[6] N. P. Martins, B. Çiçek, C. Brumaud, R. Snellings, and G. Habert, “Beyond efficiency: Engineering a sustainable low-tech cementitious binder for earth-based
+[^6^] N. P. Martins, B. Çiçek, C. Brumaud, R. Snellings, and G. Habert, “Beyond efficiency: Engineering a sustainable low-tech cementitious binder for earth-based
+
+[^7^]	Y. Du, G. Habert, and C. Brumaud, “Influence of tannin and iron ions on the water resistance of clay materials,” Constr. Build. Mater., vol. 323, p. 126571, Mar. 2022, doi: 10.1016/j.conbuildmat.2022.126571.
+
+[^8^]	B. Cicek, N. P. Martins, C. Brumaud, G. Habert, and M. Plötze, “A reverse engineering approach for low environmental impact earth stabilization technique,” IOP Conf. Ser. Earth Environ. Sci., vol. 588, no. 4, p. 042058, Nov. 2020, doi: 10.1088/1755-1315/588/4/042058.
+
+[^9^]	D. Ardant, C. Brumaud, A. Perrot, and G. Habert, “Robust clay binder for earth-based concrete,” Cem. Concr. Res., vol. 172, p. 107207, Oct. 2023, doi: 10.1016/j.cemconres.2023.107207.
