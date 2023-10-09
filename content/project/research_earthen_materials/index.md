@@ -38,8 +38,7 @@ These samples showcase the immense potential of earth as a construction material
 
 For those interested in the vast potential of earthen construction, embracing and promoting these techniques may pave the way for a greener, more sustainable built landscape. Feel free to check our website and reach out at [https://sc.ibi.ethz.ch/en/](https://sc.ibi.ethz.ch/en/).
 
-## References:
-
+### References:
 [^1^] “Building with excavated material.” Accessed: Oct. 05, 2023. [Online]. Available: [https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html](https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html)
 
 [^2^] Y. Du, G. Habert, and C. Brumaud, “Design of Tannin-Based Poured Earth Material via Deflocculation–Coagulation Control: Additive Selection and Tannin Variation,” ACS Sustain. Chem. Eng., vol. 10, no. 44, pp. 14495–14502, Nov. 2022, doi: 10.1021/acssuschemeng.2c04078.
