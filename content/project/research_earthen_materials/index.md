@@ -39,20 +39,13 @@ These samples showcase the immense potential of earth as a construction material
 For those interested in the vast potential of earthen construction, embracing and promoting these techniques may pave the way for a greener, more sustainable built landscape. Feel free to check our website and reach out at [https://sc.ibi.ethz.ch/en/](https://sc.ibi.ethz.ch/en/).
 
 ### References:
-[^1^] “Building with excavated material.” Accessed: Oct. 05, 2023. [Online]. Available: [https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html](https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html)
 
-[^2^] Y. Du, G. Habert, and C. Brumaud, “Design of Tannin-Based Poured Earth Material via Deflocculation–Coagulation Control: Additive Selection and Tannin Variation,” ACS Sustain. Chem. Eng., vol. 10, no. 44, pp. 14495–14502, Nov. 2022, doi: 10.1021/acssuschemeng.2c04078.
-
-[^3^] D. Ardant, C. Brumaud, and G. Habert, “Influence of additives on poured earth strength development,” Mater. Struct., vol. 53, no. 5, p. 127, Oct. 2020, doi: 10.1617/s11527-020-01564-y.
-
-[^4^] G. Landrou, C. Brumaud, and G. Habert, “Influence of magnesium on deflocculated kaolinite suspension: Mechanism and kinetic control,” Colloids Surf. Physicochem. Eng. Asp., vol. 544, pp. 196–204, May 2018, doi: 10.1016/j.colsurfa.2017.12.040.
-
-[^5^] C. M. Ouellet-Plamondon and G. Habert, “Self-Compacted Clay based Concrete (SCCC): proof-of-concept,” J. Clean. Prod., vol. 117, pp. 160–168, Mar. 2016, doi: 10.1016/j.jclepro.2015.12.048.
-
-[^6^] N. P. Martins, B. Çiçek, C. Brumaud, R. Snellings, and G. Habert, “Beyond efficiency: Engineering a sustainable low-tech cementitious binder for earth-based
-
-[^7^]	Y. Du, G. Habert, and C. Brumaud, “Influence of tannin and iron ions on the water resistance of clay materials,” Constr. Build. Mater., vol. 323, p. 126571, Mar. 2022, doi: 10.1016/j.conbuildmat.2022.126571.
-
-[^8^]	B. Cicek, N. P. Martins, C. Brumaud, G. Habert, and M. Plötze, “A reverse engineering approach for low environmental impact earth stabilization technique,” IOP Conf. Ser. Earth Environ. Sci., vol. 588, no. 4, p. 042058, Nov. 2020, doi: 10.1088/1755-1315/588/4/042058.
-
-[^9^]	D. Ardant, C. Brumaud, A. Perrot, and G. Habert, “Robust clay binder for earth-based concrete,” Cem. Concr. Res., vol. 172, p. 107207, Oct. 2023, doi: 10.1016/j.cemconres.2023.107207.
+[^1^]: “Building with excavated material.” Accessed: Oct. 05, 2023. [Online]. Available: [ETH News](https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html)
+[^2^]: Y. Du, G. Habert, and C. Brumaud, “Design of Tannin-Based Poured Earth Material via Deflocculation–Coagulation Control: Additive Selection and Tannin Variation,” ACS Sustain. Chem. Eng., vol. 10, no. 44, pp. 14495–14502, Nov. 2022, doi: 10.1021/acssuschemeng.2c04078.
+[^3^]: D. Ardant, C. Brumaud, and G. Habert, “Influence of additives on poured earth strength development,” Mater. Struct., vol. 53, no. 5, p. 127, Oct. 2020, doi: 10.1617/s11527-020-01564-y.
+[^4^]: G. Landrou, C. Brumaud, and G. Habert, “Influence of magnesium on deflocculated kaolinite suspension: Mechanism and kinetic control,” Colloids Surf. Physicochem. Eng. Asp., vol. 544, pp. 196–204, May 2018, doi: 10.1016/j.colsurfa.2017.12.040.
+[^5^]: C. M. Ouellet-Plamondon and G. Habert, “Self-Compacted Clay based Concrete (SCCC): proof-of-concept,” J. Clean. Prod., vol. 117, pp. 160–168, Mar. 2016, doi: 10.1016/j.jclepro.2015.12.048.
+[^6^]: N. P. Martins, B. Çiçek, C. Brumaud, R. Snellings, and G. Habert, “Beyond efficiency: Engineering a sustainable low-tech cementitious binder for earth-based construction,” Cem. Concr. Res., vol. 162, p. 106973, Dec. 2022, doi: 10.1016/j.cemconres.2022.106973.
+[^7^]: Y. Du, G. Habert, and C. Brumaud, “Influence of tannin and iron ions on the water resistance of clay materials,” Constr. Build. Mater., vol. 323, p. 126571, Mar. 2022, doi: 10.1016/j.conbuildmat.2022.126571.
+[^8^]: B. Cicek, N. P. Martins, C. Brumaud, G. Habert, and M. Plötze, “A reverse engineering approach for low environmental impact earth stabilization technique,” IOP Conf. Ser. Earth Environ. Sci., vol. 588, no. 4, p. 042058, Nov. 2020, doi: 10.1088/1755-1315/588/4/042058.
+[^9^]: D. Ardant, C. Brumaud, A. Perrot, and G. Habert, “Robust clay binder for earth-based concrete,” Cem. Concr. Res., vol. 172, p. 107207, Oct. 2023, doi: 10.1016/j.cemconres.2023.107207.
