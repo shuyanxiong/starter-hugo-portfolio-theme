@@ -28,16 +28,26 @@ As we find ourselves at the intersection of modernization and sustainability, a 
 
 ## Spotlight on the Samples:
 
-- **Marketability:** not only are these earth bricks produced by pouring techniques, but they also utilize a concrete-like production process, which offers the advantages of easy production, quick entry into service, and a similar appearance to traditional bricks. In addition to these advantages, they are also environmentally friendly. The technique involves utilizing the inorganic components of the excavated soil, compressing it, and stabilizing it with a very small amount of cement or lime.
+- **Marketability:** 
+Not only are these earth bricks produced by pouring techniques, but they also utilize a concrete-like production process, the material can be poured into molds similar to those used for traditional concrete, which offers the advantages of easy production, quick implementation, and fast construction. This not only meets market demand but also significantly reduces construction costs. In addition to these advantages, they are also environmentally friendly. The technique involves utilizing a small amount of inorganic additives, which enables excavated soil to flow with a lower amount of water and to set with the evolving time.
 
-- **Versatility:** clay mixtures are customizable and different pigments can be added to match your design preferences. The loose structure of clay gives it excellent moisture regulating properties, allowing for uses beyond building materials. This adaptable material helps to naturally regulate the indoor climate.
-
-- **Flexibility:** notably, the material can be poured into molds similar to those used for traditional concrete, which revolutionizes the application process by being fast and versatile to produce. This not only meets market demand, but also significantly reduces construction costs.
+- **Versatility:** 
+Clay mixtures are customizable, and different pigments can be added to match your design preferences. The porous structure and hydrophilic nature of clay give it excellent moisture-regulating properties, allowing for uses beyond building structural materials. This adaptable material helps to naturally regulate the indoor climate.
 
 These samples showcase the immense potential of earth as a construction material. By combining traditional knowledge with modern techniques, we pave the way for more sustainable and eco-friendly building solutions.
 
-For those interested in the vast potential of earthen construction, embracing and promoting these techniques may pave the way for a greener, more sustainable built landscape. Feel free to check our website and reach out at [ETH Zurich Sustainable Construction](https://sc.ibi.ethz.ch/en/).
+For those interested in the vast potential of earthen construction, embracing and promoting these techniques may pave the way for a greener, more sustainable built landscape. Feel free to check our website and reach out at [https://sc.ibi.ethz.ch/en/](https://sc.ibi.ethz.ch/en/).
 
 ## References:
 
-[^1]: [“Building with excavated material.”](https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html) Accessed: Oct. 05, 2023.
+[1] “Building with excavated material.” Accessed: Oct. 05, 2023. [Online]. Available: [https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html](https://ethz.ch/en/news-and-events/eth-news/news/2017/10/building-with-excavated-material.html)
+
+[2] Y. Du, G. Habert, and C. Brumaud, “Design of Tannin-Based Poured Earth Material via Deflocculation–Coagulation Control: Additive Selection and Tannin Variation,” ACS Sustain. Chem. Eng., vol. 10, no. 44, pp. 14495–14502, Nov. 2022, doi: 10.1021/acssuschemeng.2c04078.
+
+[3] D. Ardant, C. Brumaud, and G. Habert, “Influence of additives on poured earth strength development,” Mater. Struct., vol. 53, no. 5, p. 127, Oct. 2020, doi: 10.1617/s11527-020-01564-y.
+
+[4] G. Landrou, C. Brumaud, and G. Habert, “Influence of magnesium on deflocculated kaolinite suspension: Mechanism and kinetic control,” Colloids Surf. Physicochem. Eng. Asp., vol. 544, pp. 196–204, May 2018, doi: 10.1016/j.colsurfa.2017.12.040.
+
+[5] C. M. Ouellet-Plamondon and G. Habert, “Self-Compacted Clay based Concrete (SCCC): proof-of-concept,” J. Clean. Prod., vol. 117, pp. 160–168, Mar. 2016, doi: 10.1016/j.jclepro.2015.12.048.
+
+[6] N. P. Martins, B. Çiçek, C. Brumaud, R. Snellings, and G. Habert, “Beyond efficiency: Engineering a sustainable low-tech cementitious binder for earth-based
