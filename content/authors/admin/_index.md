@@ -48,6 +48,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/shuyanxiong
+  - icon: youtube
+    icon_pack: fab
+    link: http://www.youtube.com/@shuyanxiong3066
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
