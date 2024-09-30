@@ -21,15 +21,12 @@ Our research yielded several important insights:
 - We found that the ratio of transportation distances (reuse case vs. new production) influences the minimum cutting size.
 - We demonstrated that cutting size significantly impacts overall GHG emissions in the reuse strategy.
 
-![Alt Text](visual.png)
-*(Visualization of Beam Sizes and Cutting Directions)*
+![Alt Text](SA.png)
+*(Differences in GHG emissions of concrete components with varying energy sources' GHG emissions, transportation distances and cutting tool performance)*
 
 ## Practical Implications
 
 Our research offers practical insights for industry stakeholders to optimize concrete reuse practices and effectively reduce GHG emissions. We've also developed a tool prototype to guide professionals in optimizing cutting sizes for concrete reuse.
-
-![Alt Text](SA.png)
-*(Differences in GHG emissions of concrete components with varying energy sources' GHG emissions, transportation distances and cutting tool performance)*
 
 ## Project Context
 
