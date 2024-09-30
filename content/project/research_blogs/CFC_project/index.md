@@ -5,7 +5,7 @@ date: 2023-10-01
 summary: Aiming to develop a systems approach for informing the design of
   sustainable housing with circular material flows in urban areas.
 tags:
-  - RE
+  - RB
 external_link: ""
 ---
 With construction accounting for nearly 50% of the world's annual resource consumption, the increasing demand for materials and the looming threat of climate change necessitate innovative solutions for sustainable urban development [^1^] [^2^] [^3^]. 

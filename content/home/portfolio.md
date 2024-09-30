@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Research Experience
-      tag: RE
-    - name: Work Experience
-      tag: WE
-    - name: Leadership Experience
-      tag: LE
+    - name: Research Blogs
+      tag: RB
+    - name: Publications
+      tag: PB
+    - name: Other Experiences
+      tag: OE
 
 design:
   columns: '1'

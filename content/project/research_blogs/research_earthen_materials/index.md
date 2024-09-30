@@ -4,7 +4,7 @@ subtitle: Planet Earth - The Underrated Dynamics of Sustainable Building
 date: 2023-10-01
 summary: Reimagining construction - Earthy, sustainable materials meet modern techniques for a greener future.
 tags:
-  - RE
+  - RB
 external_link: ""
 ---
 When envisioning the future of architecture, we tend to gravitate towards innovative technologies, new materials and advanced methods. However, there is also a powerful natural material embedded in our modern advances: earth.
