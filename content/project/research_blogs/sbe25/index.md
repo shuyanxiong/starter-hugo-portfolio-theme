@@ -5,10 +5,11 @@ date: 2025-04-30
 summary: ....
 tags:
   - AO
-external_link: "https://sbe.ethz.ch/"
+external_link: ""
 ---
 
 **Member of the Organising Committee – SBE25 Zurich**  
+[Visit SBE25 Website](https://sbe.ethz.ch/)
 [Follow SBE25 on LinkedIn](https://www.linkedin.com/company/sbe-series)
 
 **About SBE25 Zurich:**  
