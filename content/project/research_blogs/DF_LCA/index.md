@@ -20,4 +20,5 @@ With engaging presentations and thought-provoking discussions, the event brought
 
 Thank you to all contributors for sharing great insights!
 
-🎥 **[Link to the recording and archive](https://lca-forum.ch/forum?tx_news_pi1%5BactbackPid%5D=4&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=89&cHash=1e77af85b6268d62ff79ade17bfcae19)**
+📂 **[Link to the archive](https://lca-forum.ch/forum?tx_news_pi1%5BactbackPid%5D=4&tx_news_pi1%5Baction%5D=detail&tx_news_pi1%5Bcontroller%5D=News&tx_news_pi1%5Bnews%5D=89&cHash=1e77af85b6268d62ff79ade17bfcae19)**
+🎥 **[Link to the recording](https://video.ethz.ch/events/lca/2025/spring/90th.html)**
